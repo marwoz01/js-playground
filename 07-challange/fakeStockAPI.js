@@ -6,4 +6,3 @@ export function getStockData() {
         time: new Date().toLocaleTimeString()
     }
 }
-  
